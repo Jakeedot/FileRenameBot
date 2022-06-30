@@ -14,7 +14,10 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 Required variables
 * `TG_BOT_TOKEN` Bot token from @BotFather
-* `API ID` Value from my.telegram.org
+* `API_ID` Value from my.telegram.org
+* `API_HASH` Value from my.telegram.org
+* `AUTH_USERS` add user's id only for preferred users to use else put 0
+* `BANNED_USER` add user's id if want to block them else put 0
 
 #### For Queries and support, contact [prgofficial](https://telegram.dog/prgofficial)
 
