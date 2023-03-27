@@ -2,7 +2,7 @@
 
 
 ### File Rename Telegram Bot
-A Telegram File Rename and thumbnail & caption Changer Bot with High Speed
+A Telegram File Rename and thumbnail & caption changer bot with High Speed
 
 ### DEPLOYEMENT SUPPORT
 
